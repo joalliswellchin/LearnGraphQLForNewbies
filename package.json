@@ -9,7 +9,12 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "@types/express": "^4.16.0",
+    "@types/express-graphql": "^0.6.1",
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12"
+  },
   "devDependencies": {
     "@types/graphql": "^0.13.4",
     "graphql": "^0.13.2",
